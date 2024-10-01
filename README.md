@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-mihaylov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=code&logoColor=white)](https://smcodelab.com/)
-[![Portfolio](https://img.shields.io/badge/smcodelab.com-orange?style=for-the-badge&logo=code&logoColor=white)](https://smcodelab.com/)
+[![Portfolio](https://img.shields.io/badge/smcodelab.com-orange?style=for-the-badge&logo=linkedin&logoColor=white)](https://smcodelab.com/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
