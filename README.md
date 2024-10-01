@@ -4,8 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-mihaylov)
-[![Personal Portfolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://smcodelab.com/) 
-
+[![Portfolio](https://img.shields.io/bacge/Website-smcodelab.com-orange?style=for-the-badge&logo=code)](https://smcodelab.com/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
