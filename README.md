@@ -49,26 +49,7 @@
 
 ---
 
-<svg width="400" height="240" viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0e1117"/>
-      <stop offset="100%" stop-color="#1f2933"/>
-    </linearGradient>
-  </defs>
-
-  <rect x="0" y="0" width="400" height="240" rx="16" fill="url(#bg)"/>
-
-  <text x="40" y="60" fill="#e5e7eb" font-size="16" font-family="Arial, Helvetica, sans-serif">
-    <tspan x="40" dy="0">“Without <b>Data</b> you are</tspan>
-    <tspan x="40" dy="26">just another person</tspan>
-    <tspan x="40" dy="26">with an opinion”</tspan>
-  </text>
-
-  <text x="40" y="160" fill="#f59e0b" font-size="14" font-family="Arial, Helvetica, sans-serif">
-    — Data Engineering Principle
-  </text>
-</svg>
+![Quote](quote.svg)
 
 ---
 
