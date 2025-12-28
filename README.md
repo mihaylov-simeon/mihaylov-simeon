@@ -39,18 +39,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaylov-simeon&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com?user=mihaylov-simeon&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaylov-simeon&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
-
-
-
----
-
 ![Quote](quote.svg)
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=mihaylov-simeon&icon=2&color=3)
