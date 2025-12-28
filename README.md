@@ -1,46 +1,53 @@
-# 💫 About Me:
- 🔭 I’ve always been an independent problem solver, obsessed with the latest devices <br>and technologies. Today, I’m working within a data team as a Technical Data Analyst, <br>where I can implement a large part of my knowledge in technology and gain even more. <br><br>🌱 I have a degree in engineering and attended Software University for 2 years and graduated <br>as a Full-stack Java Developer. Although my career path led me to the exciting world of Data, <br>my time learning Java development was priceless.<br><br>I work with a variety of tools and programming languages in my day-to-day job, including SQL, <br>Confluence, Jira, Python, PySpark, Jupyter, AWS, and many more.<br> <br>Part of my daily tasks include Datasets screening and validation, functional testing, attribute <br>testing, system analysis, data pipelines development and testing, working on both on-prem <br>and cloud data. <br><br>I also have extensive knowledge in a variety of programming languages and software technologies, such as Java, JavaScript, HTML, CSS, SQL, Spring Applications, Python, part of which I use for freelance web projects outside of my working environment.
+# 💫 About Me
 
+🔭 I am a **Data Engineer with a strong engineering background**, focused on building reliable, scalable, and well-structured data pipelines across on-prem and cloud environments. 
+   I currently work within as a Data Engineer, where I design, validate, and maintain datasets used for analytics, dashboards and business decision-making.
+🌱 I hold a degree in engineering and completed two years at Software University, graduating as a **Full-stack Developer**. This software engineering foundation plays a key role in 
+   how I approach data systems — with an emphasis on clean architecture, maintainability, and correctness.
 
-## 🌐 Socials:
+⚙️ I regularly work with **Python, PySpark, Jupyter, AWS, Airflow, Jenkins, Grafana, Docker, Jira, and Confluence**, and collaborate closely with analytics, engineering, and business stakeholders. 
+   I enjoy turning raw, complex data into structured, analytics-ready models that can be trusted and scaled.
+
+---
+
+## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-mihaylov/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logoColor=white)](https://smcodelab.com/)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mihaylov-simeon&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mihaylov-simeon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaylov-simeon&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23326ce5.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mihaylov-simeon&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaylov-simeon&theme=dark&hide_border=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihaylov-simeon&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaylov-simeon&theme=dark&hide_border=false&layout=compact)
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=mihaylov-simeon&icon=2&color=3)
