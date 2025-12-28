@@ -1,10 +1,10 @@
 # 💫 About Me
 
 🔭 I am a **Data Engineer with a strong engineering background**, focused on building reliable, scalable, and well-structured data pipelines across on-prem and cloud environments. 
-   I currently work within as a Data Engineer, where I design, validate, and maintain datasets used for analytics, dashboards and business decision-making.
+   I currently work as a Data Engineer, where I design, validate, and maintain datasets used for analytics, dashboards, and business decision-making.
 
-🌱 I hold a degree in engineering and completed two years at Software University, graduating as a **Full-stack Developer**. This software engineering foundation plays a key role in 
-   how I approach data systems — with an emphasis on clean architecture, maintainability, and correctness.
+🌱 I hold a degree in engineering and completed two years at Software University, graduating as a **Full-stack Developer** along with multiple certificates. 
+   This software engineering foundation plays a key role in how I approach data systems — with an emphasis on clean architecture, maintainability, and correctness.
 
 ⚙️ I regularly work with **Python, PySpark, Jupyter, AWS, Airflow, Jenkins, Grafana, Docker, Jira, and Confluence**, and collaborate closely with analytics, engineering, and business stakeholders. 
    I enjoy turning raw, complex data into structured, analytics-ready models that can be trusted and scaled.
