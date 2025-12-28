@@ -41,9 +41,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaylov-simeon&theme=dark&hide_border=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihaylov-simeon&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaylov-simeon&theme=dark&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaylov-simeon&theme=dark&hide_border=false&count_private=true&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=mihaylov-simeon&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaylov-simeon&theme=dark&hide_border=false&layout=compact&cache_seconds=86400)
+
 
 ---
 
